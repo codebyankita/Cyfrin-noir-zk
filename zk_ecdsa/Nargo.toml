@@ -1,0 +1,6 @@
+[package]
+name = "zk_ecdsa"
+type = "bin"
+authors = [""]
+
+[dependencies]
